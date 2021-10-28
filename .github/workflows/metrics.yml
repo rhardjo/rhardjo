@@ -20,6 +20,7 @@ jobs:
           # Render options
           template: terminal
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: ""
           plugin_languages: yes
           plugin_habits: yes
           plugin_lines: yes
