@@ -2,7 +2,7 @@
     <img width="33%" src="https://sdk.bitmoji.com/render/panel/365addfd-bab6-49e7-8bb6-358100afa25e-4e70556e-5a48-4843-bf0d-19555ccbf86a-v1.png?transparent=1&palette=1">
 </p>
 
-<h2 align="center">You can ask me about</h2>
+<h2 align="center">The tech I work with</h2>
 <p align="center">
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   </a>
 </p>
-<h2 align="center">I work with</h2>
+<h2 align="center">The tools I work with</h2>
 <p align="center">
   <a href="https://www.apple.com/nl/macos/">
     <img src="https://img.shields.io/badge/osx-000000?&style=for-the-badge&logo=apple&logoColor=white">
@@ -103,7 +103,7 @@
   </a>
 </p>
 
-<h2 align="center">You can reach me on</h2>
+<h2 align="center">You can find me on</h2>
 <p align="center">
   <a href="https://rano.dev">
     <img src="https://img.shields.io/badge/my%20website-171717?&style=for-the-badge&logoColor=white">
