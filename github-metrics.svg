@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 10 Nov 2022, 13:41:43
+Last generated: 10 Nov 2022, 14:50:43
 </div>
 <div class="stdin"><span class="ps1-path">rhardjo@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Rano Hardjosemito</b> registered=7y, uid=5882, gid=0
   contributed to 25 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -64,20 +64,20 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -39.2k +178k @@</span>
+<span class="diff">@@ -39.6k +190k @@</span>
 </div>
-<div class="stdin"><span class="ps1-path">rhardjo@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [##############      ] 65.99%
-<b>TYPESCRIPT  </b> [#####               ] 24.30%
-<b>SCSS        </b> [##                  ] 5.48 %
-<b>HTML        </b> [#                   ] 2.24 %
-<b>CSS         </b> [#                   ] 1.38 %
+<div class="stdin"><span class="ps1-path">rhardjo@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [##############      ] 66.14%
+<b>TYPESCRIPT  </b> [#####               ] 24.12%
+<b>SCSS        </b> [##                  ] 5.56 %
+<b>HTML        </b> [#                   ] 2.22 %
+<b>CSS         </b> [#                   ] 1.37 %
 <b>ARDUINO     </b> [#                   ] 0.25 %
 <b>SHELL       </b> [#                   ] 0.21 %
 <b>SMARTY      </b> [#                   ] 0.15 %
 </div>
 
 
-<footer>Connection reset by 80.69.92.226</footer></pre>
+<footer>Connection reset by 98.92.165.41</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
